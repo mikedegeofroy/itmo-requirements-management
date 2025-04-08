@@ -1,6 +1,8 @@
 # Лабораторная Работа 2
 *Выполнили: Платон Сидоров, де Джофрой Мишель, М3308*
 
+[Гугл Таблица](https://docs.google.com/spreadsheets/d/1XFBYYEkPpgMkGGljOnkuGqThj5HorbEWzn05dAC2iOQ/edit?gid=0#gid=0)
+
 ## Цель
 Научиться классифицировать требования и определять их приоритеты.
 
