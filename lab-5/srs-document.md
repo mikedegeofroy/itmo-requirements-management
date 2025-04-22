@@ -340,7 +340,7 @@
 
 <img width="471" alt="image" src="https://github.com/user-attachments/assets/54113ce4-5383-4808-9182-73556db05882" />
 
-<img width="498" alt="image" src="https://github.com/user-attachments/assets/273a3b41-337b-4646-b8ec-4721c62df287" />
+<img width="483" alt="image" src="https://github.com/user-attachments/assets/c5ebde39-00fa-442b-b60f-cf195864f87f" />
 
 **Описание:**
 - Фильтры для поиска свободных аудиторий (дата, время, вместимость, оборудование)
