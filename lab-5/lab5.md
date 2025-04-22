@@ -234,7 +234,7 @@
 
 **NFR-14 (Should):** Время реакции на критические проблемы не должно превышать 2 часов.
 
-[Ссылка на таблицу трассировки и MosCoW требований](https://docs.google.com/spreadsheets/d/1XFBYYEkPpgMkGGljOnkuGqThj5HorbEWzn05dAC2iOQ/edit?gid=0#gid=0)
+[Ссылка на таблицу трассировки и MoSCoW требований](https://docs.google.com/spreadsheets/d/1XFBYYEkPpgMkGGljOnkuGqThj5HorbEWzn05dAC2iOQ/edit?gid=0#gid=0)
 
 ### 2.4 Пользовательские характеристики
 
